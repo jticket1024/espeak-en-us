@@ -103,6 +103,7 @@ _hok	h'Uk
 _cap	k,ap@-t@L
 _?A	l,Et3
 _??	sImb@L
+_braille br'eIl
 _#9	tab
 _#32	speIs
 //…	_::d%0td,0t     // for elipsis or ...  while reading
@@ -3269,7 +3270,7 @@ for              fO@		$u
 (for an)         f@@n		$nounf
 (for the)        f3D@2		$nounf
 (for a while)    f@@||w'aIl
-(for one)        fO@w0n		$2 $atend
+(for one)        fO@wVn		$2 $atend
 
 to               t@5		$verbf    // @ change to U before vowel
 (to be)          t@b%i		$pastf
@@ -3609,7 +3610,7 @@ any              ,Eni		$nounf $only
 many             mEni		$nounf
 (many of)        mEnI|@v
 some             ,sVm		$nounf $unstressend $only
-(some one)       sVmw0n
+(some one)       sVmwVn
 ?6 (some one)    sVmwVn
 one              w0n		$nounf $onlys $unstressend
 ones             w0nz		$only $unstressend
@@ -3669,7 +3670,7 @@ like             laIk          $strend2
 ?6 anyone	EnIwVn
 ?6 everyone	EvrIwVn
 ?6 someone	sVmwVn
-?6 (some one)	sVmwVn
+?6 (some one)	sVmw0n
 ?6 one		wVn           $nounf $onlys $unstressend
 ?6 ones		wVnz          $only $unstressend
 
