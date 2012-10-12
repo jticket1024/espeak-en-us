@@ -1,0 +1,2 @@
+copy all files into /usr/share/espeak-date and run sudo espeak --compile=en-us to compile the new espeak dictionaries Please make sure you have the most recent development version of espeak, unless it breaks.
+
