@@ -1,42 +1,29 @@
 //espeak mispronunciations
-admiration adm3'eIS@n
-afk $abbrev
 aph $abbrev
 aqueduct 'akw@dVkt
 aur $abbrev
 bartholomew bA@'T0l@mju:
 behemoth bI'hi:m@T
-bremen 'brEm@n
-belarus bEl3'u:z
-bermuda b3'mju:d@
 canton 'kant@n
-cemetery 'sEm@t2e@i
 coliceum k0l@'si:@m
 confidant 'k0nfI#d0nt
 cuirass 'kjU@I#s
 despot  'dEsp@t
-dolby 'doULbi
 duress d3r'Es
 efface I'feIs
 elvis 'ElvI#s
-fakeroot 'feIkru:t2
 gabon g@'b0n
 garroting 'ge@@t#IN
-gibraltar dZI'brO:lt3
-guiana gi:'0n@
 giaquinta dZ@'kwInt@
 ibsa $abbrev
 imho $abbrev
 inlb $abbrev
-ithaca 'IT@ka#
 kyocera kia#'se@@
-laurell $2
 liberace lIb3'0tSi
 ligature 'lIg@tS3
 margarita mA@g3'i:t@
 mesquit m@s'ki:t
 milieu mIl'jU:
-neurotic nUrr'0tIk
 nike 'naIki
 pedestal 'pEdIst@L
 perineum p3'Ini@m
@@ -44,7 +31,6 @@ poltergeist 'poUlt23gaIst
 pontiac p0ntiak
 preadolescent pri:ad@'lEs@nt
 prestigious prEs'ti:Z@s
-pristine  $2
 plebeian 'plEbi@n
 remi r@'mi:
 semantics sI'mant2Iks
@@ -54,17 +40,13 @@ stygian 'stIdZ@n
 suerte 'swe@t2eI
 tikal taI'k0l
 tivoization ti:voUI#'zeIS@n
-triceratops traI'se@@t20ps
 verizon v@'raIz@n
-waistline 'weIstlaIn
 william 'wIlj@m
 yasr $abbrev
 mitsubishi mItsu:'bi:Si:
 amo 'amoU
-deveraux dEv3'oU
 observe Vb'z3v
 observer Vb'z3v3
- ocr $abbrev
 
 //fantacy or obscure names or words
 
@@ -73,8 +55,6 @@ advocates 'adv@k,@ts
 ajihad '0ZIh0d
 alagaësia al@g'eIzi:a#
  alianora ali:@'nora#
-aol $abbrev
-august 'O:g@st
 bakelite 'bak@laIt
 beloth 'bEloUT
 bolcke boULk
