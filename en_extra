@@ -1,9 +1,4 @@
 //espeak mispronunciations
-aph $abbrev
-aur $abbrev
-behemoth bI'hi:m@T
-bulimia b@'li:mi@
-camaro k@'me@oU
 cantaloupe 'kanta#loUp
 canton 'kant@n
 cartel kA@'t2El
@@ -11,8 +6,6 @@ coliceum k0l@'si:@m
 collage ka#'l0Z
 cuirass 'kjU@I#s
 decibel  dEsI#b@L
-despot  'dEsp@t
-duress d3r'Es
 gabon g@'b0n
 ibsa $abbrev
 imho $abbrev
@@ -31,7 +24,6 @@ prestigious prEs'ti:Z@s
 plebeian 'plEbi@n
 signoff 'saInOf
 sommelier s0m@l'jeI
-stygian 'stIdZ@n
 tikal taI'k0l
 tivoization ti:voUI#'zeIS@n
 verizon v@'raIz@n
@@ -39,7 +31,15 @@ yasr $abbrev
 mitsubishi mItsu:'bi:Si:
 amo 'amoU
 //fantacy or obscure names or words
-mesquit m@s'ki:t
+stygian 'stIdZ@n
+despot  'dEsp@t
+duress d3r'Es
+aph $abbrev
+aur $abbrev
+behemoth bI'hi:m@T
+bulimia b@'li:mi@
+camaro k@'me@oU
+squit m@s'ki:t
 milieu mIl'jU:
 abraxas a#'br0ks@s
 advocates 'adv@k,@ts
