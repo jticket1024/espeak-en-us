@@ -1,7 +1,9 @@
 //espeak mispronunciations
-algebra 'aldZ@bra# (bichon frise) bi:'Z0nfri:'zeI
+algebra 'aldZI#br@ (bichon frise) bi:'Z0nfri:'zeI
 button 'bV?n-
 eaten 'i:?n-
+
+isbn $abbrev
 imho $abbrev
 leprechaun 'lEprI#k0n
 liberace lIb3'0tSi
