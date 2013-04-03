@@ -1,8 +1,8 @@
 //espeak mispronunciations
-algebra 'aldZI#br@ (bichon frise) bi:'Z0nfri:'zeI
+algebra 'aldZI#bra#
+(bichon frise) bi:'Z0nfri:'zeI
 button 'bV?n-
 eaten 'i:?n-
-
 isbn $abbrev
 imho $abbrev
 leprechaun 'lEprI#k0n
@@ -17,7 +17,6 @@ tikal taI'k0l
 tivoization ti:voUI#'zeIS@n
 verizon v@'raIz@n
 yasr $abbrev
-yosemite joU'sEmIt#i
 mitsubishi mItsu:'bi:Si:
 //fantacy or obscure names or words
 ibsa $abbrev
