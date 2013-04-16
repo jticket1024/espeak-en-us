@@ -1,2 +1,2 @@
-copy all files into /usr/share/espeak-data and run sudo espeak --compile=en-us to compile the new espeak dictionaries Please make sure you have the most recent development version of espeak, unless it breaks.
+run the espeak-compile.sh script to automatically copy and compile the en_list, en_rules and en_extra files. Please make sure you have the latest version of espeak, found at http://espeak.sf.net/test/latest.html.
 
