@@ -1,12 +1,10 @@
 //espeak mispronunciations
-sybaritic 'saIb3It#Ik
+sybaritic 'sI:b3It#Ik
 button 'bV?n-
 eaten 'i:?n-
 gettin 'gE?n-
 foushee fu:'SeI
-isbn $abbrev
 imho $abbrev
-impregnate Im'prEg,neIt
 kramisha kr@'mi:S@
 leprechaun 'lEprI#k0n
 liberace lIb3'0tSi
@@ -23,8 +21,6 @@ verizon v@'raIz@n
 yasr $abbrev
 mitsubishi mItsu:'bi:Si:
 //fantacy or obscure names or words
-svartalf sv'A@t#@f
-svartalves sv'A@t#@vz
 lacuna l@'kju:n@
 naagloshii nI#'gloUSi
 leanansidhe li@'nanSi
