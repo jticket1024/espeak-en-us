@@ -24,9 +24,11 @@ felipe fI#'li:peI
 felon 'fEl@n
 finagle fI#'neIg@L
 goatee goU't2i:
+godzilla g0d'zIl@
 phlegmy 'flEmi
 harold 'har@Ld
 heinz 'haInz
+helluva 'hEl@va#
 hydrangea haI'dreIndZ@
 hula 'hu:l@
 hurray $2
@@ -35,15 +37,18 @@ joie Zw0
 kaopectate keIoU'pEkteIt
 khrushchev 'kru:stSEv
 lakebed 'leIkbEd
+leukemia luchemia $text
 linoleum $2
 lorraine l@'reIn
 mannlicher 'manlIx3
 maroon ma#'ru:n
+marvelous 'mA@v@l@s
 merlot m3'loU
 mesa 'meIs@
 milwaukee mIl'wO:ki
 nicaraguan nIka#'r0gw@n
 nietzsche 'ni:tSi:
+nitroglycerine naItroU'glIs3In
 obituary oU'bItSu:e@i
 odometer oU'd0mIt#3
 potable 'poUt#@b@L
@@ -53,6 +58,7 @@ rigamarole 'rIg@ma#roUl
 saturn 'sat#3n
 sebago sI#'beIgoU
 shreveport 'Sri:vpo@t
+simulacrum sImjU'leIkr@m
 titus 'taIt#@s
 vivre 'vi:v
 voltage 'voUltIdZ
@@ -91,8 +97,9 @@ volkswagen 'voUlkswag@n
 verizon v@'raIz@n
 yasr $abbrev
 //fantacy or obscure names or words
+allnut $1
 jimla 'dZIml0
-ladue l@'du:
+LaDue l@'du:
 alcide al'si:d
 poulin 'paUlIn
 dickensian dI#'kEnzi@n
