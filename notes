@@ -8,3 +8,7 @@ Words like tuner, zune, etc have a very pronounced y, 'tju:n3, 'zju:n, but words
 
 words like diet, bias, etc need a phoneme change, I think. The aI@ phoneme doesn't sound quite right. I'm not sure how to explain it, the i sounds way too drawn out. compare aI and aI@ and you 
 can notice it.
+
+should eprfect, read, etc have more accurate $past detection? Espeak sometimes fails to speak the past tense and instead reads teh present, eg have read, should have read. Then agein no synth 
+can be perfect.
+
