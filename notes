@@ -1,4 +1,9 @@
-end of sentence stress, eg does espeak put primary stress on the first syllable of the last word? I've been assuming not, so have been changing stress accordingly.
+
+Disclaimer: Unless I say otherwise, all these notes apply only to the english US voice and language, as this is what I speak.
+end of sentence stress, eg does espeak put primary stress on the 
+first 
+syllable of the last word? I've been assuming 
+not, so have been changing stress accordingly.
  Eg embolism is pronounced, afaik, with stress on the first syllable. But if I review the word it sounds off. Thoughts?
 
 speaking speeds: If I have espeak turned up to between 430 and 450 (if I go over that sonic kicks in and it sounds off), the "ar" "or" and "ire" seem to be cut short. I don't think the 
@@ -9,6 +14,6 @@ Words like tuner, zune, etc have a very pronounced y, 'tju:n3, 'zju:n, but words
 words like diet, bias, etc need a phoneme change, I think. The aI@ phoneme doesn't sound quite right. I'm not sure how to explain it, the i sounds way too drawn out. compare aI and aI@ and you 
 can notice it.
 
-should eprfect, read, etc have more accurate $past detection? Espeak sometimes fails to speak the past tense and instead reads teh present, eg have read, should have read. Then agein no synth 
+should perfect, read, etc have more accurate $past detection? Espeak sometimes fails to speak the past tense and instead reads the present, eg have read, should have read. Then again no synth 
 can be perfect.
 
