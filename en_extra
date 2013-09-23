@@ -1,9 +1,7 @@
 //espeak mispronunciations
-AAA trIp@L||'eI $abbrev $allcaps
 aacs $abbrev
 abominable a#'b0mI#n@b@L
 aclu $abbrev
-adolphus a#doUlf@s
 aesthetic a#s'TEt#Ik
 AITB $abbrev $allcaps
 aj $abbrev $capital
@@ -12,46 +10,32 @@ albino al'baInoU
 alcatel 'alka#t2El
 alfredo al'freIdoU
 amando a#'mandoU
-amazon 'ama#z0n
 anaesthesia anIs'Ti:Z@
 anomalies a#'n0m@liz
 apologetic a#p0l@'dZEt#Ik
 apoplexy ap@'plEksi
-appellate a#'pEl@t
 arabica a#'rabIk@
 assad a#'s0d
-archiso A@tS||'aIsoU
 articulable A@'t2Ikju:l@b@L
-asexual eI'sEkSu:@L
 asio $abbrev
 aspirate 'asp3eIt
 asthma 'azma#
 asthmatic az'mat#Ik
-asymmetric eIsI'mEt2rIk
-asymmetry eI'sIm@tri
 authorization O:T3rI#'zeIS@n
 articulation A@t2IkjU'leIS@n
-anthony 'anT@ni
 audubon 'O:t#@b0n
 augusta a#'gVst@
-authored 'O:T3d
 aussie 'O:si
 avatar 'ava#t2A@
 avc $abbrev
-balancer 'bal@ns3
 bayesian beI'i:Z@n
 behavioral bI'heIvj3@L
 bernardino b3n@'di:noU
-bestiality bi:sti'alIt#i
-bestselling 'bEst||'sElIN
-bestseller 'bEst|'sEl3
 bethesda bI#'TEzd@
-bluish 'blu:IS
 boardmember $1
 bolster 'boULst3
 boogey 'bUgi
 borell b3'El
-brunei bru:'naI
 bullpen 'bUlpEn
 byod $abbrev
 calzone kal'zoUn
@@ -80,36 +64,26 @@ coperpetrator koU'p3pItreIt#3
 coprocessor koU'pr0sEs3
 cozumel k0z@'mEl
 chromebook 'kroUmbUk
-cognescenti  k0gn@'sEnti
-cognition k0g'nIS@n
 coif k'w0f
 colonoscopy koUl@n'0sk@pi
-consummate 'k0ns@m@t
-coordinating koU'O@dIneItIN
-corinne k3'i:n
 credenza krI#'dEnz@
 cryptanalyze krIpt'an@laIz
 cyberattack 'saIb3a#t2ak
-cyrus 'saIr@s
 deanimate di:'anI#meIt
 deauthorize di:'O:T3raIz
 decollatage deIkoU't0Z
 defectivebydesign dI'fEktIv||'baI||dI'zaIn
 deviled 'dEv@Ld
-denuded dI'nu:dId
-deric 'de@Ik 
 desperation dEsp3'eIS@n
 dialogue d'aI@l,O:g
 disavow d,Is@v'aU
 dishonor dIs'0n3
-dog d'Og
 eff $abbrev $allcaps 
 eliot 'Eli:@t
 elliott 'Eli:@t
 emacs 'i:maks
 emacspeak 'i:makspi:k
 embolism $1
-EME $abbrev $allcaps
 enclave '0nkleIv
 ept $abbrev
 errata I'r0t#@
@@ -118,10 +92,8 @@ espn $abbrev
 evangelize I'vandZ@laIz
 evga $abbrev
 exe $abbrev
-executable EksI'kju:t#@b@L
 exoskeleton EksoU'skElIt2@n
 faux 'foU
-(faux pas) 'foU||'p0
 filet fI'leI
 fischer 'fIS3
 framerate 'freImreIt
@@ -132,7 +104,6 @@ ftaa $abbrev
 fujitsu fu:'dZItsu:
 galactic g@'laktIk
 galleria gal3'i:@
-gallagher 'gal@g3
 gargantuan gA@'gantSu:@n
 geocities dZi:oU'sIt#iz
 geothermal dZi:oU'T3m@L
@@ -144,14 +115,11 @@ hispaniola hIsp@n'joUl@
 hormel ho@'mEl
 idevice aI||dI'vaIs
 ifrog 'aIfrOg
-imagery 'ImIdZri
 inca 'INk@
 infamy 'Inf@mi
 infomercial InfoU'm3S@L
-infotainment InfoU'teInm@nt
 inofuentes In@'fwEnt2eIz
 isopropyl aIs@proUp@L
-issuance 'ISu:@ns
 jacuzzi dZI#'ku:zi
 jerald 'dZe@@Ld
 jesse 'dZEsi
@@ -166,7 +134,6 @@ kinect kI#'nEkt
 kirabook 'ki@3@bUk
 klein 'klaIn
 kroger 'kroUg3
-LA $abbrev $allcaps 
 (la jolla) l@hOI@
 lenovo l@'noUvoU
 lenses l'EnzI#z
@@ -174,8 +141,6 @@ librejs 'li:br@||dZeI'Es
 libreplanet 'li:br@||'planIt
 liechtenstein 'lIkt@nstaIn
 lineage 'lIni@dZ
-lyin 'laIIn
-tryin 'traIIn
 macbook 'makbUk
 mach 'm0k
 maguire m@'gwaI3
@@ -184,7 +149,6 @@ marques 'mA@kI#s
 martinez mA@'ti:nEz
 mateo m@'teIoU $capital
 maybach 'meIb0k
-MCC $abbrev $allcaps
 medevaced 'mEdIvakt
 mediagoblin 'mi:di@||'g0blIn
 metropolises mE'tr0p@lIsI#z
@@ -231,9 +195,7 @@ poison p'OIz@n
 poisonous p'OIz@n@s
 pokemon 'poUkeIm0n
 porsche 'po@S
-potable 'poUt#@b@L
 prerelease pri:rI#'li:s
-prism 'prIz@m
 programmable proU'gram@b@L
 proprietary pr@pr'aI@t2e@i
 prosumer proU'su:m3
@@ -306,9 +268,7 @@ veggie 'vEdZi
 ventura vEn'tU@@
 videogame vIdioU||geIm 
 vietnam v,i:;@t'n0m
-(vis à vis) 'vi:z||eI||'vi:
 virulent 'vi@3@l@nt
-vitalis vaI'talI#s
 voyeurism 'vOI3Iz@m
 warthog 'wo@thOg
 wherewithal 'we@wIDO:L
@@ -318,7 +278,6 @@ Zoltán $1
 zune 'zu:n
 button 'bV?n-
 eaten 'i:?n-
--gettin 'gE?n
 (grand saline) 'grands@'li:n
 foushee fu:'SeI
 imho $abbrev
@@ -328,7 +287,6 @@ liberace lIb3'0tSi
 liferea 'laIfreI
 protools proUt2u:lz
 puttin 'pU?n-
-rosary 'roUz3i
 sabattus s@'bat#@s
 subaru 'su:b3u:
 subcategory  sVbk'at#I2g3ri
