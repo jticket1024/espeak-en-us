@@ -28,7 +28,6 @@
 // ?7  Scottish
 // ?8  Use full vowel, not schwa in some word endings
 
-
 // Group Y, vowels + y
 .L01  l r
 .L02  i y
@@ -87,7 +86,7 @@
         aa) aa           a:
             aa (a        a:
             aar          'A@
-         w) a (b         0
+w) a (b         0
         gl) a (ci        eI
          r) a (ciA       eI
          w) a (d         0
