@@ -1,11 +1,5 @@
 #!/bin/bash
 
-#need root permission to proceed
-if [[ $(whoami) != "root" ]] ; then
-echo "This script needs root permissions."
-exit 1
-fi
-
 #check for updates.
 git pull
 
@@ -20,13 +14,30 @@ echo "Destination directory missing, exiting."
 exit 1
 fi
 
-#copy files to espeak directory
+#need root permission to proceed
 echo "Copying files:"
+if [[ $(whoami) != "root" ]] ; then
+#copy files to espeak directory
+sudo cp ./en_* /usr/share/espeak-data/
+#change to espeak directory and compile data
+cd /usr/share/espeak-data/
+sudo espeak --compile=en-us
+echo "files updated."
+read -n 1 -p "Restart espeakup using systemctl?" restart
+if [ "${restart^}" == "Y" ] ; then
+sudo systemctl restart espeakup
+fi
+else
+#copy files to espeak directory
 cp ./en_* /usr/share/espeak-data/
-
 #change to espeak directory and compile data
 cd /usr/share/espeak-data/
 espeak --compile=en-us
-echo "files updated. Exiting."
+echo "files updated."
+read -n 1 -p "Restart espeakup using systemctl?" restart
+if [ "${restart^}" == "Y" ] ; then
+systemctl restart espeakup
+fi
+fi
+echo
 exit 0
-
