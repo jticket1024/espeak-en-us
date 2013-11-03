@@ -4377,6 +4377,7 @@ shall            ,Sal           $verbf $only $strend2
 shalt            ,Salt          $verbf $only
 should           ,SUd           $verbf $only $strend2
 (should have)    SUd@v          $pastf $u1+
+(should have)  SUd'hav $atend
 (should have to)  SUdhavt@5	$u2 $verbf $strend2
 shouldn't        ,SUd@-nt	$verbf $strend2 $only
 (shouldn't have) SUd@-nth@v	$pastf $u1+
