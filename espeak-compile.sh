@@ -25,7 +25,8 @@ sudo espeak --compile=en-us
 echo "files updated."
 read -n 1 -p "Restart espeakup using systemctl?" restart
 if [ "${restart^}" == "Y" ] ; then
-sudo systemctl restart espeakup
+serviceName="$(systemctl --no-pager | grep espeakup | head -n 1 | cut -d " " -f1)"
+sudo systemctl restart $serviceName
 fi
 else
 #copy files to espeak directory
@@ -36,7 +37,8 @@ espeak --compile=en-us
 echo "files updated."
 read -n 1 -p "Restart espeakup using systemctl?" restart
 if [ "${restart^}" == "Y" ] ; then
-systemctl restart espeakup
+serviceName="$(systemctl --no-pager | grep espeakup | head -n 1 | cut -d " " -f1)"
+systemctl restart $serviceName
 fi
 fi
 echo
