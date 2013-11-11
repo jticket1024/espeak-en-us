@@ -626,7 +626,6 @@ sla	$abbrev
 scsi	skVzi
 ssip	$abbrev
 st	s@nt
-?3 st seInt2
 tbsp	teIb@Lspu:n
 th	T
 thu	T3:        // Thursday
