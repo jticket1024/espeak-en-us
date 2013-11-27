@@ -9,3 +9,7 @@ $past detection. It's mostly accurate, but has content EG he has content on his 
 Three word sentences:
  Primary stress is placed on the second word in a three  word sentence. What 'is it. What 'was it. Please feel free to correct me, but I think that's how it goes.
 
+
+apostrophe handling.
+I've noticed that espeak might need a change in the way it handles apostrophes in single letters. z's becomes zeeis  o's becomes o s, y's is just mangled, lol.
+
