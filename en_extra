@@ -1,51 +1,33 @@
 ﻿	//espeak mispronunciations(
 content k@n't2Ent $past
-(that's it) Dats'It2 $atend
-(for a while)    f3@||w'aIl
-(for one)        fO@wVn         $2 $atend
-(that was)       Da#t||wVz      $atend
-(there was)      D%e@w,Vz       $strend
-whatnot wVtn0t $1
 (won't have it) woUnt'havIt $atend
 akamai a#'k0mi
-athlon aTl0n
 auernheimer aU3nhaIm3 $1
 poulin 'paUlIn
 aacs $abbrev
 aclu $abbrev
-addendum a#dEnd@m $2
 adelita adI#'li:t#@
 aeschbacher 'ESb0X3
 aesthetic a#s'TEt#Ik
 aj $abbrev $capital
 aka $abbrev
-amish '0mIS
 anesthetize a#'nEsTI#taIz
 ankylosaur ankIl@so@ $2
-anonymize a#n0n@maIz $2
-aquino a#'ki:noU
 AT&T 'eIt2i:;@nt'i: $allcaps
 asimov 'azI#mOv
-asparagus a#'spar@g@s
 aspca $abbrev
 asio $abbrev
 atari a#'tA@i
 atsc $abbrev $allcaps
 augusta a#'gVst@
-authoritative a#TO@I#t2eIt#I#v $2
 avira a#'vi@r@
 awakening a#'weIk@nIN
 bachman b0km@n $1
-baumer 'baUm3
 beringed bIr'INd
 bernardino b3n@'di:noU
 bingaman bIN@m@n $1
-blanche 'bl0nS
-bludgeon blVdZ@n $1
-bologna b@loUni $2
 boomhauer 'bu:mhaU3
 bravura br@vjU@@ $2
-broomcloset bru:mkl0zI#t $1
 buffet bV'feI $onlys
 calzone kal'zoUn
 cardamom k'A@d@m@m
@@ -54,114 +36,52 @@ career k@'ri@3
 charybdas k@rIbd@s $2
 ces $abbrev $atend
 cfaa $abbrev 
-cheney tSeIni $1
 chianti ki:'0nt2i
 chiparus 'SIpr@s
-cialis si:'alI#s
-cochairman koUtSe@m@n $2
 christine $2
-cochairmen koUtSe@mEn $2
-compatibles k@mp'at#@b@Lz
-consigliere k@nsIglie@ $4
-cottonmouth k'0?n-maUT
 corazon kO@@z0n
 clarice kl@r'i:s
-colbert 'koUlb3t
-colburn koUlb3n $1
-cretin 'kri:?n-
 ctia $abbrev $allcaps
-(cum laude) ku:mlaUt#i $2
-darcia 'dA@S@
-darnedest dA@ndI#st $1
-decedent dI#'si:d@nt
 decollatage deIkoU't0Z
 defragmented dI'fragm@nt2I#d
-denominationally dI2n,0mI#n'eIS@-n@Li
-detkin dEtkIn $1
-dillard 'dIl3d
-dimaggio dI'm0ZioU
-DiMaggio dI'm0ZioU $only
-doth 'dVT
 draconian dr@koUni@n $2
-eatx $abbrev $allcaps
-egodriven i:goUdrIv@n $1
 eisenach aIz@nA:k $1
 edelman Ed@Lm@n $1
-electrotechnical IlEktroU'tEknIk@L
 elsevier El,sEvI;'eI
 emacspeak 'i:makspi:k
 eminence EmI'n0ns $capital
-enrique Enri:keI $2
 esrb $abbrev
 eta $abbrev
-evansville Ev@nzvIl $1
-exes EksI#z $1
-exxon Eks0n $1
-facetime 'feIstaIm
 fasciitis faSi:'aIt#I#s
-favoritism 'feIv3@t2Iz@m
-fernandes f3n0ndI#s $2
 galle ga'leI
-geolocation dZi:oUloUkeIS@n $4
-georgina dZO@'dZi:n@
 giannarelli dZ0n3Eli $3
-goeth goU@T $1
 grigio gri:'ZoU
 guillaume gi:;'oUm
 heterogenous hEt#30dZ@n@s $3
-hola _^_ES
 huseby hju:zbi $1
-ideology aIdi:'0l@dZi
-individualist ,IndI2v'IdZu:@LIst
 inofuentes In@'fwEnt2eIz
-inter $1
 jakobsen 'dZeIk@bs@n
-jagermeister 'jeIg3maIst3
-jalopy dZ@'l0pi
-janine dZ@ni:n $2
 joachim hw0'ki:m
-joneses dZoUnzIz $1
-jonesing dZoUnzIN $1
 Jean 'ZA~n $capital $only
-judaism 'dZu:deIIz@m
 kahuna ka#'hu:n@
 kamelot 'kamIl0t
-katar k@'tA@ $2
 kayaker kaIak3 $1
-kerosene k'Er@si:n
 keurig  'kjU@Ig
 kudos 'ku:doUz
-labyrinthine lab3InTi:n $3
-laurell $1
-lavender lav@nd3 $1
 leches  'lEtSe
 lenovo l@'noUvoU
-leola li:oUl@ $2
-lethargy 'lET3dZi
 librejs 'li:br@||dZeI'Es
 Louis 'lu:Is $capital
 makassar m@'kas3
-malfeasance malfi:s@ns $2
-malone m@'loUn
-marguerite mA@g3i:t
 marques 'mA@kI#s
-mazeroski maz3'0ski
-melamed mEl@mEd $1
-melinda m@'lInd@
 memorandum mEm3'and@m
-miasma maI'azm@
 Microsoft       maIkr@sOft
-minet mI'neI
 mit $abbrev $allcaps
-mitchell m'ItS@L
-mmorpg $abbrev
 monopole m0n@poUl $1
 morris 'mO:rI#s
 mushz mVSzi:
 norelco no@'ElkoU
-noticeboard noUt#Isbo@d $1
 (Notre Daim) noUtr@'d0m
-numbly 'nVmli
 nvda's Envi:di:eIz $4
 obamacare oU'b0ma#||ke@
 obnoxious @bn'0kS@s
@@ -172,57 +92,34 @@ olaf 'oUl0f
 oleander 'oUliand3
 openssh 'oUp@n|EsEs'eItS
 openssl 'oUp@n|EsEs'El
-organelle O@g@nEl $3
 pantera pan't2e@@
-paradise par@daIs $1
-paramour para#mU@
-parental p3'Ent@L
-parentage pe@@nt2IdZ $1
-parroted par@tI#d $1
-parroting par@t#IN $1
 perot pE'roU
-petulance pEtS@l@ns $1
 pharmacokinetic fA@m@koUkI'nEt#Ik
 pikachu 'pi:k@tSu:
 podesta poUdEst@ $2
 posner poUzn3 $1
-presuppose pri:s@'poUz
 procompetitive proUk@m'pEt#It2Iv
-prognosis pr0g'noUsIs
 protestant pr0t#Ist@nt $1
 protocol pr'oUt#@k,O:L
-provocateur $4
-peugeot pu:ZoU $2
-purist pjU@Ist
 Qi $abbrev $capital
 rajiv r0'Zi:v
-referrer rI'f33
 reinish r'aInIS
-résistance rEzIstA~ns $3
 rochet r0'SeI
-saccharine sak3In $1
-sachs 'saks
 salve 'sav
-sanguine saNgwIn $1
-saraphina se@a#'fi:n@
-sayonara saI:@'nA@@ 
 scaa $abbrev $allcaps
 scalia sk@'li:@
 schlein 'SlaIn
 seagram si:gr@m
 shakie 'SeIki
 sharable S'e@@b@L
-shutoff 'SVt#Of
 silatris s'Il@trIs
 sma $abbrev
 smileage smaIlIdZ $1
 solomon 's0l@m@n
-somewhat sVmwVt $1
 speidel spaIdEl $2
 sponduli sp0n'du:li
 spongebob 'spVndZb0b
 sssca $abbrev
-strategic str@ti:dZIk $2
 superseed  $3
 svchost Esvi:si:'hoUst
 Tacaná ta#'k0n@
@@ -234,23 +131,16 @@ travolta tr@'voUlt@
 trevathon trI#'veIT@n
 trialing tr'aI@LIN 
 trianna tri:'0n@
-triumphantly traIVmf@ntli $2
-triplicate trIplI#k@t $1
-tunafish tu:n@fIS $1
 ukranian ju:'kreIni@n
 umts $abbrev
 unequivocally VnIkwIv@kli $3
-vaccine vaksi:n $2
 vanuatu v@'nu:tu:
 vaporware 'veIp3we@
-vignet vIgnEt $2
 vinyl 'vaIn@L
 vradenburg vreId@nb3g $1
 vs 'v3sIz $abbrev
 waxahachie w0ks@hatSi %\$3
 wereanimal 'we@,anIm@L
-wilhelmina wIlh@l'mi:n@
-wiretapped 'waI3t2apt
 wuxga $abbrev
 zepole 'zEp@li
 imho $abbrev
