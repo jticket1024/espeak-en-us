@@ -1,8 +1,4 @@
 ﻿	//espeak mispronunciations(
-hearten hA@?n-
-threaten 'TrE?n-
-(should have it) SU:d'havIt2
-(won't have it) woUnt'havIt $atend
 ae $abbrev $allcaps
 akamai a#'k0mi
 auernheimer aU3nhaIm3 $1
@@ -56,19 +52,14 @@ decollatage deIkoU't0Z
 decompilation di:k0mpIl'eIS@n
 defragment dI'fragm@nt2
 defragmented dI'fragm@nt2I#d
-defragmentation dI,fragm@nt2'eIS@n
 draconian dr@koUni@n $2
 eisenach aIz@nA:k $1
 edelman Ed@Lm@n $1
-electrocute I'lEktr@kju:t
-electrocution IlEktr@'kju:S@n
 elsevier El,sEvI;'eI
 emacspeak 'i:makspi:k
 eminence EmI'n0ns $capital
 esrb $abbrev
 eta $abbrev
-evildoer i:v@L||du:3
-evildoing i:v@L||du:IN
 fasciitis faSi:'aIt#I#s
 fidgeting fIdZI#t#IN
 galle ga'leI
@@ -135,8 +126,6 @@ protocol pr'oUt#@k,O:L
 Qi $abbrev $capital
 rajiv r0'Zi:v
 reinish r'aInIS
-rescan ri:'skan
-retitle ri:'taIt#@L
 rochet r0'SeI
 salve 'sav
 scaa $abbrev $allcaps
@@ -165,13 +154,10 @@ treo 't2ri:oU
 trevathon trI#'veIT@n
 trialing tr'aI@LIN 
 trianna tri:'0n@
-tush 't2US
 ukranian ju:'kreIni@n
 umts $abbrev
-valhalla $2
 vanuatu v@'nu:tu:
 vaporware 'veIp3we@
-vertex 'v3t2Eks
 vinyl 'vaIn@L
 virtualbox 'v3tSu:@L||'b0ks
 vradenburg vreId@nb3g $1
@@ -192,9 +178,6 @@ tiramisu ti@r@mI'su:
 verizon v@'raIz@n
 yasr $abbrev
 //fantacy or obscure names or words
-noautobloodsacrifice 'noU||Ot#oU||'blVd||'sakrIfaIs
-autobloodsacrifice Ot#oU||'blVd||'sakrIfaIs
-noautorecast 'noU||'Ot#oU||ri:'kast
 nintendocaprisun nIn'tEndoUk@'pri:'sVn
 togepi 'toUg@pi:
 jagang dZ@'gaN
