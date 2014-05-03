@@ -820,7 +820,7 @@ aloe		aloU
 alphabetize	alf@b@taIz
 alt		0lt   // not abbrev
 alternate	O:lt'3:n@t     $only
-alternate	O:lt3neIt      $verb
+alternate	'O:lt3neIt      $verb
 alternately	O:lt'3:n@tlI   $verbf
 alternative	O:lt'3:n@tIv 
 altogether	,O:lt@gED3
