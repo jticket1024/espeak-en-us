@@ -4410,6 +4410,7 @@ Gutierrez	gu:tj'ErEz
 Hades		heIdi:z
 Hamilton	ham@Lt@n
 Harison		harIs@n
+//have hav  $noun
 Heinz		haInz
 Herrera		h@re@r@
 Hormel		ho@m'El
@@ -4661,7 +4662,7 @@ won't            woUnt		$u+ $verbf $strend2 $only
 wouldst           $u+
 (won't have)     woUnta#v	$pastf $u1
 (won't have)     woUnthav	$pastf $atend
-//(could have it) kUdh'avIt
+(could have it) kUdh'avIt
 (won't have it)  woUnthavIt      $u2+
 (won't have to)  w'oUntavt@5	$verbf $strend2
 
