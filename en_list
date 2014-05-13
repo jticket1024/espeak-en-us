@@ -2738,6 +2738,7 @@ proceed		proUsi:d      $onlys
 proceed		$verb
 proceed		$only
 produce		pr0dju:s      $noun $only
+?3 produce         pr'oUdu:s      $noun $only
 progeny		pr0dZ@ni
 ?3 programmable	$2
 prognosis	pr0gn'oUsIs
