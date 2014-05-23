@@ -1,32 +1,18 @@
 ﻿	//espeak mispronunciations(
-(that is) Dat2'Iz $atend
 jr dZu:nj3 $dot
 sr s'i:nj3 $dot
 (has one) h'azwVn $atend
-adirondack ad3'0ndak
-adkins 'adkInz
-aggies 'agiz
 (à la) '0l@
-atk $abbrev
-appaloosa ap@'lu:s@
-applewood 'ap@LwUd
-appropriated a#pr'oUprI;eIt#I#d
-appropriating a#pr'oUprI;eIt#IN
 poulin 'paUlIn
 aacs $abbrev
 aclu $abbrev
 adelita adI#'li:t#@
 adie 'adi
 aesthetic a#s'TEt#Ik
-airtight 'e@t2aIt
 aka $abbrev
 alestorm 'eIlstO@m
 aleecia a#'li:S@
 aliev a#'li:v
-amalisa ama#'lIs@
-anesthetize a#'nEsTI#taIz
-annapolis a#'nap@lIs
-assam 0's0m
 aspca $abbrev
 asio $abbrev
 atari a#'tA@i
@@ -36,167 +22,77 @@ astm $abbrev $allcaps
 nicci n'i:tSi
 augusta a#'gVst@
 avira a#'vi@r@
-azkaban 'azk@ban
 ballimore $1
-barnaby b'A@n@bi
-bachelorette batS@l3'Et2
 banged b'aNd
-beerbeque bi@3bI#kju:
 bein' b'i:In $only
 benz b'Enz
 bikinied bI'ki:nid
 bingaman bIN@m@n $1
-blech bl'EX $only
-bloodrage 'blVdreIdZ
-bobsled b'0bslEd
-boomeranged b'u:m3r,aNd
-bourguignonne bU@gI'njO~
 bozone boUzoUn
-bravura br@vjU@@ $2
-breuer br'u:3
 //buffet bV'feI $onlys
-bugaboo b'Vg@bu:
 bulleted b'UlI2t#I#d //possible misspell
 caden k'eId@n
 calzone kal'zoUn
-capricious k@'prIS@s
 cardamom k'A@d@m@m
 cartain k'A@?n-
 caryin k'e@iIn $only
 catsup k'atS@p
 cedega sI#'deIg@
-ces $abbrev $atend
 cfaa $abbrev 
-chicagoan SI'k0goU@n
 chiparus 'SIpr@s
 christmasland kr'Ism@s||land
-circassian $2
-coastline k'oUstlaIn
-coauthored koUO:T3d
-coffeetable k'Ofit2eIb@L
 copasetic koUp@'sEt#Ik
-coquina k@'ki:n@
-corazon kO@@z0n
-corduroy kO@d3OI
-costlier k'Ostli;3
-credence 'kri:d@ns
-cruisin k'ru:zIn $only
-crouton k'ru:t20n
 ctia $abbrev $allcaps
-cuernavaca kwe@na#'v0k@
-czar z'A@
 dauterive 'doUtri:v
 decafalon dI#'kaf@l0n
 decatur dI#'keIt#3
 decollatage deIkoU't0Z
-deftness d'Eftn@s
 defragment dI'fragm@nt2
 defragmented dI'fragm@nt2I#d
 degenerate dIdZ'En3@t $verb $only
 deliberate dI2l'Ib3reIt2 $verb
-deskilled dI'skIld
-desler d'Esl3
 desultory d'Es@Lto@i
-detoured d'i:t2U@d
 dialogue d'aI|@l,O:g
-dialysis daI|'al@sIs
 diet d'aI|@t2
 digitalis dIdZI'talI#s
-direcTV d3'Ek||t'i:v'i:
 dison 'daIs@n
-doj $abbrev
 (dos equis) doUs'Ekis
-draconian dr@koUni@n $2
 drysdale 'draIzdeIl
 earp '3p
-easygoing $1
 eatin 'i:?n- $only
 eisenach aIz@nA:k $1
 edelman Ed@Lm@n $1
 effectivity EfI#k't2IvI#t#i
-egalitarian I,galI'te@i@n
 egwene I'gweIn
 ellision Il'IZ@n
-elias Il'aI|@s
 elsevier El,sEvI;'eI
 emacspeak 'i:makspi:k
-embroidery Embr'OId3i
 eminence EmI'n0ns $capital
-enid 'i:nId
 esrb $abbrev
 eta $abbrev
 evelyn 'EvI#lIn
 evilangel 'i:v@L||'eIndZ@L
-facet f'asI#t
 fasciitis faSi:'aIt#I#s
-fastener 'fas@n3
 fayetteville f'eI@t2vIl
 fcra $abbrev $allcaps
-fatale fI#'tal
-fearmongering f'i@3m0ng3IN
-filipe f'IlIp
-flattop f'la?t20p
-foretelling fo@'t2ElIN
-fraiche _^_FR
 galle ga'leI
-galveston g'alvI#st@n
-garrulous g'e@r@l@s
 gavalia dZ@'v0li@
-gaylesworthy g'eIlzw3Di
-gandhi g0ndi
-gerard dZ3'A@d
-gi 'gi: $only
 gianes gaI'anz
-gianis dZj0nIs
 giannarelli dZ0n3Eli $3
 giantlike dZ'aI|@nt2laIk
-gigantism dZaI'gant2Iz@m
-gracias _^_ES
 grooveyard gru:vjA@d
-guaymas gw'eIm@s
-headachey h'EdeIki //misspell
-hereditary h3'Ed@t,Eri
-hibachi hI'b0tSi
-hostility h0'stIlIt#i
-huang 'hw0N
-huevo hw'eIvoU
-hullabaloo 'hVl@b@lu:
 huseby hju:zbi $1
-hyperaware haIp3a#'we@
-iambic aI'ambIk
-icmp $abbrev
-id'd aI'di:d
-ids aI'di:z
-idiocy 'Idi;@si
 ietf $abbrev
-ikea aI'ki:@
-imperva Im'p3v@
-impish $1
-inescapable $3
-ingram INgr@m
-intermingle Int3:m'INg@L
-intermingled Int3:m'INg@Ld
-interprocess Int23'pr0sEs
-invalidity Inv@l'IdI2t#i
-ip $abbrev $allcaps $only
-irreparably I2r'Ep3r-@bli
-isabela Iz@'bEl@
 ishamael IS0meI'El
 jakobsen 'dZeIk@bs@n
-jackrabbit dZ'akrabIt
-javier h0vi'e@
 joachim hw0'ki:m
 Jean 'ZA~n $capital $only
-johann j'oUh0n
 kaboom k@'bu:m
 kahuna ka#'hu:n@
 kamelot 'kamIl0t
-kayaker kaIak3 $1
 keurig  'kjU@Ig
 kudos 'ku:doUz
 kumar ku:'mA@
-kristen 'krIst@n
-(La Quinta) l@'ki:nt@
 ldap $abbrev
 leane li:'an $only
 leadfoot 'lEdfUt2
@@ -205,210 +101,92 @@ lemke l'Emki
 lenovo l@'noUvoU
 liandrin li:'andrIn
 librejs 'li:br@||dZeI'Es
-looser l'u:s3
-Louis 'lu:Is $capital
-ma'am 'mam
-mange m'eIndZ
 masema ma#'si:m@
-matthias m@T'aI|@s
 matanya m@'t0nj@
-matriarch m'eItriA@k
 //mc $abbrev $only
-McNamara makn@'mA@@
 measiled mi:z@Ld
 megaladon 'mEga#l@d0n
-merci me@'si:
 mettalic mI#'talIk
 Microsoft       maIkr@sOft
-migratory m'aIgr@to@i
 mii m'i:
-minicomputer m'Inik@mpju:t3
-miniscanner mIni||skan3
 //minute maI'nu:t2 $nounf
 miryl m'e@@L
 missourian mIz'U@ri@n
 missourians mIz'U@ri@nz
 mit $abbrev $allcaps
-monopolize m@n'0p@laIz
 montanan $2
-montevideo m0ntIvI'deIoU
-mortarboard m'O@t#3bO@d
-mouthwatering m'aUTwO:t#3IN
 murmurous 'm3m3@s
 mushz mVSzi:
 myhrvold m'e@v@Ld
 nabisco na#'bIskoU
-naacp 'En||d'Vb@L||'eI||s'i:||p'i: $abbrev
 nanotechnology n,anoUt2Ekn'0l@dZi
-nantucket $2
 nawgahyde n'O:ga#haId
-nazareth 'naz3@T
-neuroimage nU@oU'ImIdZ
-niagra naI'agr@
-nicholson n'Ik@Ls@n
 nissan 'ni:s0n
 nisura nI#'sU@@
-nocera noU'se@@
 norelco no@'ElkoU
-nothin n'VTIn $only
-novatech n'oUv@t2Ek
 nvda's Envi:di:eIz $4
 obamacare oU'b0ma#||ke@
 obnoxious @bn'0kS@s
-obstinate '0bstI#n,@t
 ocd $abbrev
 odbc $abbrev
 ocz $abbrev $allcaps
 odt $abbrev
 ods $abbrev
 odp $abbrev
-oem's oUi:Emz $3
-OEMs oUi:Emz $3
 olaf 'oUl0f
-omnipresence $3
 openjdk 'oUp@n||dZeIdi:'keI
 openssh 'oUp@n|EsEs'eItS
 openssl 'oUp@n|EsEs'El
-oreilly oU'raIli
-ornamentation ,O@n@mEnt'eIS@n
 OSes oU'EsI#z
-outta 'aUt#a#
-outerwear 'aUt#3we@
-oximeter 0ks'ImI#t#3
-ozark 'oUzA@k
-palomino pal@'mi:noU
 pantera pan't2e@@
-parmesan pA@mI#Z0n
-pastel past2'El
 pastorelli past3'Eli
-pentameter pEnt'amI#t3
 //permit p3'mIt $verb
-peso p'eIsoU
 pharmacokinetic fA@m@koUkI'nEt#Ik
-pickpocketing p'Ikp0kI#t#IN
-pickpocketed p'Ikp0kI#tI#d
-(pied à terre) 'pjEd@'te@
-(pico de gallo) 'pi:koU||d@||'gaI;oU
-pigheadedness p'IghEdIdn@s
 pikachu 'pi:k@tSu:
-pirouette pi@3u:'Et
-pirouetting p,i@3ru:'EtIN
-podesta poUdEst@ $2
-polka p'oUlka# //polka, polkadot
-polyester p0li'Est3
-posner poUzn3 $1
-portaudio po@t2'O:dioU
-preannounce pri:a#'naUns
-preexist pri:Egz'Ist
-prefatory pr'Ef@to@i
-precident 'prEsId@nt //possible misspell of the word
-presents pr'Ez@nts $noun
-pretence 'pri:tEns //misspell
-probusiness 'proU||b'Izn@s $2
-procrastination pr@kraastI#n'eIS@n
 //protocol pr'oUt#@k,O:L
-pueblo pwEbloU
-pulseaudio pVls'O:dioU
 ragan r'eIg@n //misspell
 rajiv r0'Zi:v
 rangy r'eIndZi
 raprochment raproUSmA~
-ravenscraft r'eIv@nzkraft
-redice rI'daIs
-renice rI'naIs
 reinish r'aInIS
-retrospect r'Etr@spEkt
-reverend r'Ev3@nd
 rochet r0'SeI
-roizen r'OIz@n
-rotisserie roU't2I2s3ri
-rightsholder 'raItshoUld3
-rodenska roU'dEnsk@
-rottweiler 'r0t2waIl3
-rutherford 'rVD3f3d
-sabbath 'sab@T
-salkowicz s'alkoUItS
-salkowiczes s'alkoUItSI#z
 salve 'sav
-saraiah s@r'aI|@
 satisfactorily sat#Isf'akt3@li
 scaa $abbrev $allcaps
 scalia sk@'li:@
 seagram si:gr@m
-selene sI#'li:n
-shackleford 'Sak@Lf3d
-shakie 'SeIki
 sheraton 'SEr@t2@n
 sigil sIdZ@L
 cigil sIdZ@L //misspelled
-sightseer s'aItsi:3
 slough 'slVf
 sma $abbrev
 smileage smaIlIdZ $1
-solaris $2
 solomon 's0l@m@n
 sophia soU'fi:@
-(sotto voce) s0t#oU'voUtSeI
-soulless soUll@s
-sourcerer s'o@s3r-3 //misspell
-spaghettios sp@'gEt#ioUz
 speidel spaIdEl $2
-sponduli sp0n'du:li
 spongebob 'spVndZb0b
-spontaneity sp0ntIn'eI@t#i
 sssca $abbrev
-stoneage st'oUneIdZ
-subzero sVbz'i@roU
-supra 'su:pra#
-sutra s'u:tr@
-surprisal s3'praIz@L
 suv $abbrev
 suv $abbrev $capital
 svchost Esvi:si:'hoUst
-syphon s'aIf@n
 Tacaná ta#'k0n@
 telekinetic t,ElI2k@n'Et#Ik
 telemarketer t'ElI2m,A@kI#t#3
-thom 't20m
-thundershower T'Vnd3SaU3
-tobaccer t@'bak3 //misspell
-tobey t'oUbi
-tomatillo t0m@'ti:;oU
 tosha 't20S@
-tracheotomy treIki'0t#@mi
 travolta tr@'voUlt@
-treetop 'tri:t20p
-trevathan trI#'veIT@n
-trialing tr'aI@LIN 
 trianna tri:'0n@
-tungsten t'VNst@n
-tutankhamen tu:'t2ankh@mI#n
 ukranian ju:'kreIni@n
-ulysses jUl'Isi:z
-umts $abbrev
-unctuous 'VnktSu:@s
-upc $abbrev
-urethra jU@'i:Tr@
 vaporware 'veIp3we@
 Verde 've@deI $capital
-vinyl 'vaIn@L
-virtualbox 'v3tSu:@L||'b0ks
-vradenburg vreId@nb3g $1
 wassanasong wa#'s0n@s0n
-waxahachie w0ks@hatSi %\$3
-weekend $1
 wendall w'End@L
-whaddaya w'Vd@j@ //slang
 whatis wVt2'Iz
 whereis we@'Iz
 wereanimal 'we@,anIm@L
-whodunit hu:'dVnIt2
 wigwam w'Igw0m
 //wound w'aUnd $nounf
-wuxga $abbrev
 wyatt w'aI|@t
 //xinitrc EksInItA@'si:
-zenith z'i:nI#T
 zepole 'zEp@li
 imho $abbrev
 kramisha kr@'mi:S@
