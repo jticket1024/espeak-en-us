@@ -1,7 +1,6 @@
 ﻿	//espeak mispronunciations(
 //exceptions to the glottal stop rules
 felten f'Elt2@n
-cristen kr'Ist@n //silent t
 //normal words
 //jr dZu:nj3 $dot
 //sr s'i:nj3 $dot
@@ -24,11 +23,9 @@ asiago 0si:'0goU
 atsc $abbrev $allcaps
 astm $abbrev $allcaps
 nicci n'i:tSi
-audiobooks 'O:dI2;,oUbUks
 augusta a#'gVst@
 avira a#'vi@r@
 ballimore $1
-banged b'aNd
 bein' b'i:In $only
 benz b'Enz
 bikinied bI'ki:nid
@@ -36,7 +33,6 @@ bingaman bIN@m@n $1
 bozone boUzoUn
 broughton br'O:?n-
 //buffet bV'feI $onlys
-bulleted b'UlI2t#I#d //possible misspell
 caden k'eId@n
 calzone kal'zoUn
 cardamom k'A@d@m@m
@@ -48,7 +44,6 @@ chiparus 'SIpr@s
 christmasland kr'Ism@s||land
 conde k'0ndi
 copasetic koUp@'sEt#Ik
-cryin kr'aIIn $only
 ctia $abbrev $allcaps
 dauterive 'doUtri:v
 decafalon dI#'kaf@l0n
@@ -82,19 +77,14 @@ evelyn 'EvI#lIn
 fasciitis faSi:'aIt#I#s
 fayetteville f'eI@t2vIl
 fcra $abbrev $allcaps
-fernucci f3'nu:tSi
 fettuccine fEt#@'tSi:ni
 galle ga'leI
 gavalia dZ@'v0li@
 gianes gaI'anz
 giannarelli dZ0n3Eli $3
-giantlike dZ'aI|@nt2laIk
 grooveyard gru:vjA@d
-(has one) h'azwVn $atend
 //his/her (his or her) $text
-huento hw'Ent2oU
 huseby hju:zbi $1
-ibuprofen aIbju:'proUf@n
 ietf $abbrev
 ishamael IS0meI'El
 jakobsen 'dZeIk@bs@n
@@ -103,10 +93,8 @@ Jean 'ZA~n $capital $only
 kaboom k@'bu:m
 kahuna ka#'hu:n@
 kamelot 'kamIl0t
-kiana ki:'0n@
 keurig  'kjU@Ig
 kudos 'ku:doUz
-kumar ku:'mA@
 ldap $abbrev
 leane li:'an $only
 leadfoot 'lEdfUt2
@@ -137,7 +125,6 @@ nanotechnology n,anoUt2Ekn'0l@dZi
 nathrach nOTr0x
 nawgahyde n'O:ga#haId
 nissan 'ni:s0n
-nicodemus nIk@d'i:m@s
 nisura nI#'sU@@
 norelco no@'ElkoU
 notes n'oUt2s $allcaps
@@ -161,14 +148,12 @@ pastorelli past3'Eli
 pharmacokinetic fA@m@koUkI'nEt#Ik
 pikachu 'pi:k@tSu:
 //protocol pr'oUt#@k,O:L
-pussymelt p'UsimElt
 ragan r'eIg@n //misspell
 rajiv r0'Zi:v
 rangy r'eIndZi
 raprochment raproUSmA~
 reinish r'aInIS
 rochet r0'SeI
-row r'oU $noun
 salve 'sav
 satisfactorily sat#Isf'akt3@li
 scaa $abbrev $allcaps
