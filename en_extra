@@ -2,8 +2,8 @@
 //exceptions to the glottal stop rules
 felten f'Elt2@n
 //words that need the glottal stop but don't have it
-tighten t'aI?n
-titan t'aI?n
+tighten t'aI?n-
+titan t'aI?n-
 //normal words
 //jr dZu:nj3 $dot
 //sr s'i:nj3 $dot
@@ -25,7 +25,7 @@ alestorm 'eIlstO@m
 aleecia a#'li:S@
 aliev a#'li:v
 (amon amarth) a#'m0n||a#'mA@T
-amarth) aspca $abbrev
+aspca $abbrev
 asio $abbrev
 atari a#'tA@i
 acsi $abbrev
