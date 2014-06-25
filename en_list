@@ -4879,7 +4879,7 @@ are              %A@		$pastf $only
 was              %w0z		$pastf $only
 ?3 was           %wVz		$pastf $only
 wasn't           w,0znt		$pastf $only
-?3 wasn't        wVznt		$pastf $only
+?3 wasn't        wVzn-t		$pastf $only
 (was a)          w%Vza#
 (was the)        w%VzD@2
 wast             %w0st		$only $pastf $only
@@ -5002,6 +5002,7 @@ doing            ,du:IN		$strend2 $only
 did              dId		$verbf
 (did not)        dIdn0t		$verbf $u2+
 didn't           dIdnt		$verbf
+?3 didn't           dIdn-t          $verbf
 done             dVn
 
 make		m,eIk		$strend2 $only
