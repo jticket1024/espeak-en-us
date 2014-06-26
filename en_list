@@ -4881,7 +4881,7 @@ are              %A@		$pastf $only
 was              %w0z		$pastf $only
 ?3 was           %wVz		$pastf $only
 wasn't           w,0znt		$pastf $only
-?3 wasn't        wVzn-t		$pastf $only
+?3 wasn't           w,Vznt         $pastf $only
 (was a)          w%Vza#
 (was the)        w%VzD@2
 wast             %w0st		$only $pastf $only
