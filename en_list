@@ -582,7 +582,7 @@ evga	$abbrev
 exe	$abbrev
 ftaa	$abbrev
 fyi	$abbrev
-ghz	gIg@h3:ts
+ghz	gIg@h3:ts $only
 hmm	h@m
 hiv	$abbrev
 (http ://)   eItSt2i:t2i:'pi:_
@@ -614,7 +614,7 @@ LBS	$abbrev
 lotr	$abbrev
 ltd	lImI2tI2d
 //mc	m@k  $combine   // combine with the following word
-mhz	mEg@h3:ts
+mhz	mEg@h3:ts $only
 mit     $abbrev $allcaps
 mmorpg	$abbrev
 motd	$abbrev
