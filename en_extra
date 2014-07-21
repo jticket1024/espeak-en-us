@@ -1,8 +1,6 @@
 ﻿	//espeak mispronunciations(
 //exceptions to the glottal stop rules
 felten f'Elt2@n
-//words that need the glottal stop but don't have it
-titan t'aI?n-
 //normal words
 saur 'saU3 //saur kraut
 orchestra 'o@kI#str@
@@ -22,6 +20,7 @@ aleecia a#'li:S@
 aliev a#'li:v
 (amon amarth) a#'m0n||a#'mA@T
 apparel a#p'e@@L
+applet apl@t $1
 aspca $abbrev
 asio $abbrev
 atari a#'tA@i
